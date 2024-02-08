@@ -9,8 +9,8 @@
 ## Conclusões
 
 * Das 50 imagens conclui-se que 
-	- A ferramenta do Google Cloud Vision API reconheceu 
-	- O modelo docTR reconheceu
+	- A ferramenta do Google Cloud Vision API reconheceu 41 datas certas
+	- O modelo docTR reconheceu 36 datas certas
 * A biblioteca docTR trabalha melhor com imagens não manipuladas
 * O reconhecimento é mais preciso com o parâmento assume_straight_pages=True, logo, é mais preciso quando a data está horizontal
 * A ferramenta Google Cloud Vision API mudou a posição da imagem e as boxes ficaram descentralizadas com o texto visualmente
