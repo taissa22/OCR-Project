@@ -1,0 +1,278 @@
+Document(
+  (pages): [Page(
+    dimensions=(321, 800)
+    (blocks): [
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='ITALIA', confidence=0.63),
+            Word(value='IDEAL', confidence=1.0),
+            Word(value='MASSAS', confidence=0.92),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='inf.', confidence=0.9),
+            Word(value='Nutricional', confidence=0.87),
+            Word(value='Porcko', confidence=0.43),
+            Word(value='de', confidence=0.99),
+            Word(value='100g', confidence=0.89),
+            Word(value='(1prate)', confidence=0.9),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='QUANTIDADE', confidence=0.92),
+            Word(value='POR', confidence=1.0),
+            Word(value='PORÇAO', confidence=0.92),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='UGAS', confidence=0.43)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='VALOR', confidence=1.0),
+            Word(value='ENERGETICO', confidence=0.72),
+            Word(value='14', confidence=1.0),
+            Word(value='IxGBwieax', confidence=0.3),
+            Word(value='7', confidence=0.43),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='MASSA:', confidence=1.0)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='PRESUNTO', confidence=1.0),
+            Word(value='E', confidence=1.0),
+            Word(value='QUENJO', confidence=0.73),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='CARBOIORATOE', confidence=0.37)]
+          ),
+          Line(
+            (words): [Word(value='PROTEINAS', confidence=1.0)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='Bo't', confidence=0.28)]
+          ),
+          Line(
+            (words): [Word(value='Bo'l', confidence=0.39)]
+          ),
+          Line(
+            (words): [Word(value='bo', confidence=0.49)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='15', confidence=0.67)]
+          ),
+          Line(
+            (words): [Word(value='05', confidence=0.36)]
+          ),
+          Line(
+            (words): [Word(value='9', confidence=0.88)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='GORDURAS', confidence=0.96),
+            Word(value='TOTAIS', confidence=0.94),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='GORDURAS', confidence=0.99),
+              Word(value='SATURADAS', confidence=1.0),
+              Word(value='6o', confidence=0.42),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='GORDURA', confidence=0.96),
+              Word(value='TRANS', confidence=1.0),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='FIBRA', confidence=1.0),
+              Word(value='ALIMENTAR', confidence=0.99),
+            ]
+          ),
+          Line(
+            (words): [Word(value='sODIO', confidence=0.6)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='FABRICAÇAO:', confidence=0.77),
+            Word(value='.', confidence=0.67),
+            Word(value='-', confidence=0.84),
+            Word(value='28/01/19', confidence=0.74),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='Bo', confidence=0.46)]
+          ),
+          Line(
+            (words): [Word(value='Bo'i', confidence=0.42)]
+          ),
+          Line(
+            (words): [Word(value='Omg', confidence=0.89)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='4', confidence=0.78)]
+          ),
+          Line(
+            (words): [Word(value='9', confidence=0.55)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='VALIDADE:', confidence=0.79)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='28/02/19', confidence=0.96)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='VALIDADE:', confidence=1.0),
+              Word(value='06', confidence=0.63),
+              Word(value='DIAS', confidence=0.7),
+              Word(value='FREEZER', confidence=1.0),
+              Word(value='-S'CA-18C', confidence=0.43),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='10', confidence=1.0),
+              Word(value='DIS', confidence=0.54),
+              Word(value='REFIGERADOR', confidence=0.44),
+              Word(value='+4°C', confidence=0.28),
+              Word(value='A', confidence=1.0),
+              Word(value='D00', confidence=0.44),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='(%', confidence=0.37),
+              Word(value='Vaiores', confidence=0.93),
+              Word(value='diarios', confidence=0.95),
+              Word(value='de', confidence=0.98),
+              Word(value='referancia', confidence=0.57),
+              Word(value='com', confidence=0.99),
+              Word(value='base', confidence=0.95),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='we', confidence=0.91),
+              Word(value='uma', confidence=0.56),
+              Word(value='dieta', confidence=1.0),
+              Word(value='de', confidence=1.0),
+              Word(value='2000', confidence=1.0),
+              Word(value='kcal', confidence=0.98),
+              Word(value='.', confidence=0.61),
+              Word(value='vaiores', confidence=0.91),
+              Word(value='diartos', confidence=0.52),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='dependendo', confidence=0.94),
+              Word(value='das', confidence=1.0),
+              Word(value='necessidades', confidence=0.91),
+              Word(value='energeecas', confidence=0.38),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='TEL:', confidence=0.99),
+            Word(value='19-3037-7297', confidence=0.64),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value=':', confidence=0.39),
+            Word(value='WWWW.ITALIAIDEAL.COM.BR', confidence=0.51),
+            Word(value='CNPJ:', confidence=0.97),
+            Word(value='16.611.083/0001-96', confidence=0.66),
+          ]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

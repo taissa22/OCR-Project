@@ -1,0 +1,33 @@
+Document(
+  (pages): [Page(
+    dimensions=(240, 427)
+    (blocks): [
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='validade', confidence=0.73),
+            Word(value='/', confidence=0.6),
+            Word(value='lote:', confidence=1.0),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='61/034/20:7W0', confidence=0.33)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='L:AM', confidence=0.98),
+            Word(value='19799-12', confidence=0.97),
+            Word(value='00:08', confidence=1.0),
+          ]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

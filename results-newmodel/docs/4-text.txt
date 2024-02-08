@@ -1,0 +1,174 @@
+Document(
+  (pages): [Page(
+    dimensions=(3264, 2448)
+    (blocks): [
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='Ingredientes:', confidence=0.94),
+              Word(value='lactose', confidence=0.77),
+              Word(value='vitamina', confidence=0.68),
+              Word(value='D3', confidence=1.0),
+              Word(value='(colecalciferol)', confidence=0.82),
+              Word(value='agente', confidence=0.99),
+              Word(value='de', confidence=1.0),
+              Word(value='massa', confidence=0.91),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='celulose', confidence=1.0),
+              Word(value='microcristalina,', confidence=0.71),
+              Word(value='glaceantes:', confidence=0.98),
+              Word(value='polivinil', confidence=0.77),
+              Word(value='âlcool', confidence=0.48),
+              Word(value='a', confidence=1.0),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='polietilenoglicol', confidence=0.86),
+              Word(value='lubrificantes:', confidence=0.99),
+              Word(value='estearato', confidence=1.0),
+              Word(value='de', confidence=1.0),
+              Word(value='magnésio', confidence=0.87),
+              Word(value='e', confidence=1.0),
+              Word(value='talco,', confidence=0.87),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='corante', confidence=1.0),
+              Word(value='dioxido', confidence=0.74),
+              Word(value='de', confidence=1.0),
+              Word(value='titânio,', confidence=0.81),
+              Word(value='estabilizante', confidence=0.73),
+              Word(value='croscarmelose', confidence=0.6),
+              Word(value='sodica', confidence=0.73),
+              Word(value='e', confidence=1.0),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='ALERGICOS:', confidence=0.95),
+              Word(value='CONTÉM', confidence=0.93),
+              Word(value='DERIVADO', confidence=1.0),
+              Word(value='DE', confidence=0.99),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='LEITE', confidence=1.0),
+              Word(value='E', confidence=1.0),
+              Word(value='PODE', confidence=1.0),
+              Word(value='CONTER', confidence=1.0),
+              Word(value='TRIGO,', confidence=0.93),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='CENTEIO,', confidence=0.96),
+              Word(value='CEVADA,', confidence=1.0),
+              Word(value='AVEIA,', confidence=1.0),
+              Word(value='CRUSTA-', confidence=0.94),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='CEOS,', confidence=1.0),
+              Word(value='OVOS,', confidence=0.98),
+              Word(value='PEIXES,', confidence=1.0),
+              Word(value='AMENDOJM,', confidence=0.84),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='SOJA,', confidence=0.9),
+              Word(value='LEITES,', confidence=0.98),
+              Word(value='AMENDOA,', confidence=0.81),
+              Word(value='AVELAS,', confidence=0.94),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='DO-PARA,', confidence=0.93),
+              Word(value='MACADAMIAS,', confidence=0.7),
+              Word(value='NOZES,', confidence=0.96),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='PECÀS,', confidence=0.92),
+              Word(value='PISTACHES,', confidence=0.99),
+              Word(value='PINOLI', confidence=0.6),
+              Word(value='E', confidence=1.0),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='CASTANHAS.', confidence=0.59),
+              Word(value='CONTEM', confidence=0.92),
+              Word(value='LACTOSE.', confidence=0.72),
+              Word(value='CONTÉM', confidence=0.95),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='antioxidante', confidence=0.99),
+            Word(value='ascorbato', confidence=1.0),
+            Word(value='desodio.', confidence=0.59),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='CASTANHA-DE-CAJU', confidence=0.74)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='CASTANHA-', confidence=0.81)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='GLUTEN.', confidence=0.99),
+            Word(value='Nâo', confidence=0.47),
+            Word(value='contém', confidence=0.98),
+            Word(value='sodio.', confidence=0.82),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='L:Q22M0161', confidence=0.63)]
+          ),
+          Line(
+            (words): [Word(value='F:12.22', confidence=0.99)]
+          ),
+          Line(
+            (words): [Word(value='VAL:12.24', confidence=0.97)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='461598-001', confidence=0.98)]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

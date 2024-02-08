@@ -1,0 +1,215 @@
+Document(
+  (pages): [Page(
+    dimensions=(3264, 2448)
+    (blocks): [
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='2/621', confidence=0.58)]
+          ),
+          Line(
+            (words): [Word(value='F2', confidence=0.22)]
+          ),
+          Line(
+            (words): [Word(value='y/4', confidence=0.4)]
+          ),
+          Line(
+            (words): [Word(value='PARABENOS', confidence=1.0)]
+          ),
+          Line(
+            (words): [
+              Word(value='FORMOL', confidence=0.74),
+              Word(value='TRICLOSAN', confidence=0.58),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='cado', confidence=0.74),
+              Word(value='para', confidence=0.98),
+              Word(value='casos', confidence=0.73),
+              Word(value='de', confidence=0.76),
+              Word(value='hipersensibilidade', confidence=0.74),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='LeCom.', confidence=0.48),
+              Word(value='Lida.', confidence=0.87),
+              Word(value='-', confidence=0.88),
+              Word(value='Rua', confidence=1.0),
+              Word(value='Prol'Céla', confidence=0.38),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='42/0001-89', confidence=0.67),
+              Word(value='-', confidence=0.77),
+              Word(value='Aut', confidence=0.59),
+              Word(value='Func2.00292-6', confidence=0.47),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='CESSO', confidence=0.71),
+              Word(value='ANVISA:', confidence=0.99),
+              Word(value='2551.204516/2022-96', confidence=0.64),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='Modesto', confidence=1.0),
+              Word(value='.', confidence=0.6),
+              Word(value='CRFSP', confidence=0.85),
+              Word(value='80450', confidence=0.79),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='formula.', confidence=0.77)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='A', confidence=0.93),
+            Word(value='Jacob,', confidence=0.79),
+            Word(value='127', confidence=0.75),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='m.de', confidence=0.98),
+              Word(value='Cosméticos', confidence=0.51),
+              Word(value='Ltda.', confidence=0.9),
+              Word(value='(NP', confidence=0.66),
+              Word(value='09-000/08670850', confidence=0.45),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='(EP:06465-10', confidence=0.54),
+              Word(value='a', confidence=0.47),
+              Word(value='F46:022un7N', confidence=0.24),
+              Word(value='Azevedo', confidence=0.98),
+              Word(value='Marques,', confidence=0.7),
+              Word(value='60F', confidence=0.56),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='0gasil', confidence=0.81),
+              Word(value='ISA-', confidence=0.9),
+              Word(value='Av.', confidence=0.89),
+              Word(value='Corifeu', confidence=0.65),
+              Word(value='de', confidence=1.0),
+              Word(value='C', confidence=0.79),
+              Word(value='a', confidence=0.78),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='P:05339-900-', confidence=0.89),
+              Word(value='-', confidence=0.95),
+              Word(value='dND', confidence=0.27),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='S1000', confidence=0.41)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='ctbo', confidence=0.39)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='quoyp', confidence=0.35)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value=')', confidence=0.35)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='NDOLOTE', confidence=0.33),
+              Word(value='DATA', confidence=0.99),
+              Word(value='ADEFABRICACIO', confidence=0.23),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='EVAUDADE,', confidence=0.65),
+              Word(value='VIDE', confidence=0.88),
+              Word(value='EMBALAGEN', confidence=0.66),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='Valldade:', confidence=0.63),
+              Word(value='Valido', confidence=0.61),
+              Word(value='por', confidence=0.46),
+              Word(value='24', confidence=0.96),
+              Word(value='meses', confidence=0.93),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='apartir', confidence=0.87),
+            Word(value='de', confidence=0.99),
+            Word(value='data', confidence=1.0),
+            Word(value='de', confidence=1.0),
+            Word(value='fabricagio.', confidence=0.25),
+            Word(value='no', confidence=0.98),
+            Word(value='Instagram', confidence=0.87),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='IE960', confidence=0.69),
+            Word(value='Osig', confidence=0.49),
+            Word(value='Beomoeneeds', confidence=0.36),
+          ]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

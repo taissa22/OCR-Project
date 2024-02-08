@@ -1,0 +1,23 @@
+Document(
+  (pages): [Page(
+    dimensions=(3264, 2448)
+    (blocks): [
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='V:06/25L:00623', confidence=0.45),
+            Word(value='BR10', confidence=0.99),
+            Word(value='1113:10', confidence=0.96),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='PS0033872', confidence=0.94)]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

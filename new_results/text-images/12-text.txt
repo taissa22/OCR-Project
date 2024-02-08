@@ -1,0 +1,28 @@
+Document(
+  (pages): [Page(
+    dimensions=(3264, 2448)
+    (blocks): [Block(
+      (lines): [
+        Line(
+          (words): [Word(value='pfc', confidence=0.63)]
+        ),
+        Line(
+          (words): [Word(value='DD8R', confidence=0.95)]
+        ),
+        Line(
+          (words): [
+            Word(value='0', confidence=0.98),
+            Word(value='01/2023', confidence=0.54),
+          ]
+        ),
+        Line(
+          (words): [
+            Word(value='-', confidence=0.66),
+            Word(value='12/2024', confidence=0.95),
+          ]
+        ),
+      ]
+      (artefacts): []
+    )]
+  )]
+)

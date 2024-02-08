@@ -1,0 +1,4 @@
+1 img = deu em nada, nenhum resultado
+2 img = resultado
+3 img = nenhum resultado
+5 img = medio resultado

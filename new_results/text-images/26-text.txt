@@ -1,0 +1,41 @@
+Document(
+  (pages): [Page(
+    dimensions=(3264, 2448)
+    (blocks): [
+      Block(
+        (lines): [Line(
+          (words): [Word(value='LotalVis', confidence=0.4)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='IBTAERA', confidence=0.21)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='LAVITAN', confidence=0.82)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='A-Z', confidence=0.38),
+            Word(value='-', confidence=1.0),
+            Word(value='mulher', confidence=0.99),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='60', confidence=1.0)]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

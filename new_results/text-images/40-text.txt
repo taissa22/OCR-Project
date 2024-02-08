@@ -1,0 +1,23 @@
+Document(
+  (pages): [Page(
+    dimensions=(3264, 2448)
+    (blocks): [
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='LOT', confidence=1.0),
+            Word(value='gOBKZSLL', confidence=0.25),
+            Word(value='06/26', confidence=0.99),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='VAL:', confidence=0.46)]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

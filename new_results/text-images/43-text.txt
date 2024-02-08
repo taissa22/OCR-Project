@@ -1,0 +1,86 @@
+Document(
+  (pages): [Page(
+    dimensions=(400, 600)
+    (blocks): [
+      Block(
+        (lines): [Line(
+          (words): [Word(value='FAERIG', confidence=0.51)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='Peso', confidence=0.33)]
+          ),
+          Line(
+            (words): [Word(value='2', confidence=0.92)]
+          ),
+          Line(
+            (words): [Word(value='os', confidence=0.35)]
+          ),
+          Line(
+            (words): [Word(value='a', confidence=0.76)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='-', confidence=0.76)]
+          ),
+          Line(
+            (words): [Word(value='50', confidence=0.87)]
+          ),
+          Line(
+            (words): [
+              Word(value='VACAO', confidence=0.45),
+              Word(value='Del.', confidence=0.25),
+              Word(value='u', confidence=0.2),
+            ]
+          ),
+          Line(
+            (words): [Word(value='Ban', confidence=0.27)]
+          ),
+          Line(
+            (words): [
+              Word(value='-', confidence=0.97),
+              Word(value='3', confidence=0.84),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='on', confidence=0.32)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='22E0', confidence=0.22)]
+          ),
+          Line(
+            (words): [Word(value='greon', confidence=0.29)]
+          ),
+          Line(
+            (words): [
+              Word(value='-', confidence=0.63),
+              Word(value='-', confidence=0.84),
+            ]
+          ),
+          Line(
+            (words): [Word(value='-', confidence=0.96)]
+          ),
+          Line(
+            (words): [Word(value='alr', confidence=0.34)]
+          ),
+        ]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

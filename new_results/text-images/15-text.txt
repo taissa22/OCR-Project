@@ -1,0 +1,42 @@
+Document(
+  (pages): [Page(
+    dimensions=(3264, 2448)
+    (blocks): [
+      Block(
+        (lines): [Line(
+          (words): [Word(value='Biosmtética', confidence=0.64)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='LUR', confidence=1.0)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='desloratadina', confidence=0.92),
+            Word(value='0,5mg'mt', confidence=0.55),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='L:2305744', confidence=1.0)]
+          ),
+          Line(
+            (words): [Word(value='F:06/2023', confidence=0.95)]
+          ),
+          Line(
+            (words): [Word(value='V:06/2025', confidence=0.98)]
+          ),
+        ]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

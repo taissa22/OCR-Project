@@ -1,0 +1,46 @@
+Document(
+  (pages): [Page(
+    dimensions=(3264, 2448)
+    (blocks): [
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='-', confidence=0.97),
+              Word(value='ossos', confidence=0.55),
+              Word(value='e', confidence=1.0),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='LOTE', confidence=1.0),
+              Word(value='704900423', confidence=0.8),
+            ]
+          ),
+          Line(
+            (words): [Word(value='FABRICAÇAO', confidence=0.55)]
+          ),
+          Line(
+            (words): [Word(value='25', confidence=0.27)]
+          ),
+          Line(
+            (words): [Word(value='VALIDADE', confidence=0.99)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='mûsculos', confidence=0.54)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='OVELE1.996865.', confidence=0.37)]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

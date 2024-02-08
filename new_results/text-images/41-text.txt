@@ -1,0 +1,68 @@
+Document(
+  (pages): [Page(
+    dimensions=(3264, 2448)
+    (blocks): [
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='NOVA', confidence=0.62),
+              Word(value='FORMULA', confidence=0.58),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='NUEVA', confidence=1.0),
+              Word(value='FORMULA', confidence=1.0),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='RECOMENDADO', confidence=0.98),
+              Word(value='POR', confidence=1.0),
+              Word(value='SVISID0701VWEEO', confidence=0.29),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='RECOMENDADA', confidence=0.58),
+              Word(value='POR', confidence=0.99),
+              Word(value='DERMATOLOGOS', confidence=1.0),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='PARA', confidence=1.0),
+              Word(value='PELE', confidence=0.89),
+              Word(value='SENSIVEL', confidence=1.0),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='PARA', confidence=1.0),
+              Word(value='PIEL', confidence=1.0),
+              Word(value='SENSIBLE', confidence=0.99),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='Cetaphil', confidence=1.0)]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

@@ -1,0 +1,62 @@
+Document(
+  (pages): [Page(
+    dimensions=(3264, 2448)
+    (blocks): [
+      Block(
+        (lines): [Line(
+          (words): [Word(value='', confidence=0.35)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='-', confidence=1.0),
+            Word(value='-', confidence=0.98),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='antigripais', confidence=0.97)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='....', confidence=0.69)]
+          ),
+          Line(
+            (words): [Word(value='L', confidence=0.64)]
+          ),
+          Line(
+            (words): [Word(value=':', confidence=0.73)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='DRA04418', confidence=0.46)]
+          ),
+          Line(
+            (words): [
+              Word(value=':', confidence=0.87),
+              Word(value=':O', confidence=0.46),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value=':.', confidence=0.53),
+              Word(value=':o', confidence=0.23),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

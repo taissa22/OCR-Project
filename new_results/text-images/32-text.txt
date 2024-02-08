@@ -1,0 +1,79 @@
+Document(
+  (pages): [Page(
+    dimensions=(3264, 2448)
+    (blocks): [
+      Block(
+        (lines): [Line(
+          (words): [Word(value='-', confidence=0.79)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='-', confidence=0.67)]
+          ),
+          Line(
+            (words): [Word(value='', confidence=0.86)]
+          ),
+          Line(
+            (words): [Word(value='1', confidence=0.55)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value=':', confidence=0.39),
+              Word(value='-', confidence=0.98),
+            ]
+          ),
+          Line(
+            (words): [Word(value='-', confidence=0.59)]
+          ),
+          Line(
+            (words): [Word(value='-', confidence=1.0)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='-', confidence=0.67)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='8', confidence=1.0),
+            Word(value='OUTROS', confidence=0.99),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='E24S', confidence=0.25),
+              Word(value='Unilever', confidence=0.22),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='ISOIWI0NT', confidence=0.42),
+              Word(value='F', confidence=1.0),
+            ]
+          ),
+          Line(
+            (words): [Word(value='SIA', confidence=0.4)]
+          ),
+        ]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

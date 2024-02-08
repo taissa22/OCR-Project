@@ -1,0 +1,133 @@
+Document(
+  (pages): [Page(
+    dimensions=(3264, 2448)
+    (blocks): [
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='Recomendaçào', confidence=0.97),
+            Word(value='comprimido', confidence=0.99),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='de', confidence=1.0),
+              Word(value='uso:', confidence=0.94),
+              Word(value='adutos', confidence=0.65),
+              Word(value='ingerir', confidence=0.83),
+              Word(value='I', confidence=0.99),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='ao', confidence=0.99),
+              Word(value='dia', confidence=0.82),
+              Word(value='ou', confidence=1.0),
+              Word(value='de', confidence=1.0),
+              Word(value='acordo', confidence=0.83),
+              Word(value='com', confidence=1.0),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='recomendaçào', confidence=0.77),
+              Word(value='de', confidence=1.0),
+              Word(value='médico', confidence=0.97),
+              Word(value='elou', confidence=0.78),
+              Word(value='nutricionsta', confidence=0.42),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='ESTE', confidence=1.0),
+              Word(value='PRODUTO', confidence=1.0),
+              Word(value='NÀO', confidence=0.58),
+              Word(value='É', confidence=0.97),
+              Word(value='wh', confidence=0.9),
+              Word(value='ELNSWVOIGEW', confidence=0.27),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='EXCEDER', confidence=1.0),
+              Word(value='A', confidence=1.0),
+              Word(value='RECOMENDAÇAO', confidence=0.76),
+              Word(value='DIARIA', confidence=1.0),
+              Word(value='DE', confidence=1.0),
+              Word(value='CONSUMO', confidence=0.99),
+              Word(value='NAO', confidence=0.77),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='VOVJIONI', confidence=0.49),
+              Word(value='NA', confidence=1.0),
+              Word(value='W39VMV8WE', confidence=0.41),
+              Word(value='MANTENHA', confidence=1.0),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='3ONVOTV', confidence=0.55),
+              Word(value='DE', confidence=1.0),
+              Word(value='CRIANÇAS.', confidence=0.97),
+              Word(value='ESTE', confidence=1.0),
+              Word(value='PRODUTO', confidence=1.0),
+              Word(value='NAO', confidence=0.79),
+              Word(value='0QNO', confidence=0.36),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='SER', confidence=1.0),
+              Word(value='OGIWASNOO', confidence=0.42),
+              Word(value='POR', confidence=1.0),
+              Word(value='GESTANTES,', confidence=0.78),
+              Word(value='LACTANTES', confidence=0.99),
+              Word(value='DEVE', confidence=1.0),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value=''SVONVIO', confidence=0.18)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='E', confidence=1.0)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='Egzpass', confidence=0.59)]
+          ),
+          Line(
+            (words): [Word(value='290:MA', confidence=0.36)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='461624-002', confidence=1.0)]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

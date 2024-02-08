@@ -1,0 +1,100 @@
+Document(
+  (pages): [Page(
+    dimensions=(360, 480)
+    (blocks): [
+      Block(
+        (lines): [Line(
+          (words): [Word(value='1132s', confidence=0.71)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='L761103', confidence=0.47)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='F06', confidence=0.81)]
+          ),
+          Line(
+            (words): [Word(value='V06', confidence=0.85)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='15', confidence=1.0)]
+          ),
+          Line(
+            (words): [Word(value='17', confidence=1.0)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='15', confidence=1.0)]
+          ),
+          Line(
+            (words): [Word(value='/15', confidence=0.94)]
+          ),
+          Line(
+            (words): [Word(value='/17', confidence=0.73)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='Contém', confidence=0.98),
+            Word(value='30', confidence=1.0),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='comprimidos', confidence=0.61),
+            Word(value='SOPMSOnO', confidence=0.31),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='-', confidence=0.71),
+            Word(value='-', confidence=0.93),
+            Word(value='FF0733', confidence=0.95),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='d', confidence=0.51)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='51/60', confidence=0.25)]
+          ),
+          Line(
+            (words): [Word(value='02.17', confidence=0.33)]
+          ),
+        ]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

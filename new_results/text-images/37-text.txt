@@ -1,0 +1,41 @@
+Document(
+  (pages): [Page(
+    dimensions=(3264, 2448)
+    (blocks): [
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='1', confidence=0.83),
+            Word(value='22-1701', confidence=0.98),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='J', confidence=0.33),
+              Word(value='-', confidence=0.57),
+            ]
+          ),
+          Line(
+            (words): [Word(value='V', confidence=0.98)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value=':3150', confidence=0.32)]
+          ),
+          Line(
+            (words): [Word(value='05124', confidence=0.49)]
+          ),
+        ]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

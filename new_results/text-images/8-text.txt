@@ -1,0 +1,33 @@
+Document(
+  (pages): [Page(
+    dimensions=(2448, 3264)
+    (blocks): [
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='LOTE', confidence=1.0),
+              Word(value='704900423', confidence=0.55),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='FABRICAÇÀO', confidence=0.6),
+              Word(value='89783', confidence=0.3),
+            ]
+          ),
+          Line(
+            (words): [Word(value='VALIDADE', confidence=1.0)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='OOFE1E199686514', confidence=0.21)]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

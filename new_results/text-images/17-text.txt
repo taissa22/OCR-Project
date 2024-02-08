@@ -1,0 +1,92 @@
+Document(
+  (pages): [Page(
+    dimensions=(3264, 2448)
+    (blocks): [
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='LACREDE', confidence=0.59)]
+          ),
+          Line(
+            (words): [Word(value='SEGURANAA', confidence=0.2)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='DGE', confidence=0.31)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='E', confidence=0.23)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='2', confidence=0.26)]
+          ),
+          Line(
+            (words): [Word(value='GAy', confidence=0.22)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='VACeair', confidence=0.37)]
+          ),
+          Line(
+            (words): [
+              Word(value='SEGURANP', confidence=0.59),
+              Word(value='GARVP', confidence=0.27),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='GEDE', confidence=0.28)]
+          ),
+          Line(
+            (words): [Word(value='ECIMVÇA', confidence=0.23)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='CREDE', confidence=0.91)]
+          ),
+          Line(
+            (words): [Word(value='IRANO', confidence=0.38)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='L:0535', confidence=0.52),
+            Word(value='.12:48', confidence=0.85),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='F:09/23.0-09/25', confidence=0.62)]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

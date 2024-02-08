@@ -1,0 +1,22 @@
+Document(
+  (pages): [Page(
+    dimensions=(2448, 3264)
+    (blocks): [Block(
+      (lines): [
+        Line(
+          (words): [
+            Word(value='3294046021', confidence=1.0),
+            Word(value='0943', confidence=1.0),
+          ]
+        ),
+        Line(
+          (words): [
+            Word(value='VAL', confidence=1.0),
+            Word(value='0101,25N3+', confidence=0.51),
+          ]
+        ),
+      ]
+      (artefacts): []
+    )]
+  )]
+)

@@ -1,0 +1,156 @@
+Document(
+  (pages): [Page(
+    dimensions=(3264, 2448)
+    (blocks): [
+      Block(
+        (lines): [Line(
+          (words): [Word(value='AVSVLI', confidence=0.51)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='VITASAY', confidence=0.72)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='Ajuda', confidence=0.99),
+              Word(value='complementar', confidence=0.99),
+              Word(value='as', confidence=1.0),
+              Word(value='necess', confidence=0.99),
+              Word(value='ates', confidence=0.32),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='arias', confidence=0.94),
+              Word(value='de', confidence=1.0),
+              Word(value='vitaminas', confidence=0.99),
+              Word(value='e', confidence=1.0),
+              Word(value='minerais.', confidence=0.9),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='10', confidence=0.46)]
+          ),
+          Line(
+            (words): [Word(value='TCOSE', confidence=0.76)]
+          ),
+          Line(
+            (words): [Word(value='-DAIA', confidence=0.44)]
+          ),
+          Line(
+            (words): [Word(value='FX132015', confidence=0.29)]
+          ),
+          Line(
+            (words): [Word(value='874', confidence=0.58)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='RECOMENDAÇAO', confidence=0.82),
+              Word(value='DE', confidence=1.0),
+              Word(value='USO:', confidence=0.97),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='ESTE', confidence=1.0),
+              Word(value='PRODUTO', confidence=1.0),
+              Word(value='-', confidence=0.92),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='ADULTOS,', confidence=0.97),
+            Word(value='INGERIR', confidence=0.99),
+            Word(value='1', confidence=0.99),
+            Word(value='COMPRIMIDO', confidence=0.98),
+            Word(value='AO', confidence=0.78),
+            Word(value='DIA.', confidence=0.93),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='NAO', confidence=0.93),
+              Word(value='LE.', confidence=0.61),
+              Word(value='UM', confidence=0.98),
+              Word(value='MEDICAMENTO.', confidence=0.95),
+              Word(value='NAO', confidence=0.75),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='EXCEDER', confidence=1.0),
+              Word(value='A', confidence=1.0),
+              Word(value='RECOMENDACAO', confidence=0.91),
+              Word(value='DIARIA', confidence=1.0),
+              Word(value='DE', confidence=1.0),
+              Word(value='CONSUMO', confidence=1.0),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='INDICADA', confidence=0.92),
+              Word(value='NA', confidence=1.0),
+              Word(value='EMBALAGEM.', confidence=0.84),
+              Word(value='MANTENHA', confidence=1.0),
+              Word(value='FORA', confidence=1.0),
+              Word(value='DO', confidence=0.99),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='ALCANCE', confidence=1.0),
+            Word(value='DE', confidence=0.9),
+            Word(value='CRIANÇAS.', confidence=0.79),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='CC0088Z0', confidence=0.47)]
+          ),
+          Line(
+            (words): [Word(value='SC0.', confidence=0.11)]
+          ),
+          Line(
+            (words): [
+              Word(value='MA', confidence=0.78),
+              Word(value='-', confidence=0.93),
+              Word(value='-', confidence=0.63),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

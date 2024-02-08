@@ -1,0 +1,19 @@
+Document(
+  (pages): [Page(
+    dimensions=(1459, 1769)
+    (blocks): [Block(
+      (lines): [
+        Line(
+          (words): [Word(value='LOTE:347720', confidence=0.74)]
+        ),
+        Line(
+          (words): [Word(value='FAB-06/2023', confidence=0.57)]
+        ),
+        Line(
+          (words): [Word(value='VAL:06/2025', confidence=0.94)]
+        ),
+      ]
+      (artefacts): []
+    )]
+  )]
+)

@@ -1,0 +1,32 @@
+Document(
+  (pages): [Page(
+    dimensions=(3264, 2448)
+    (blocks): [
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='Lote:', confidence=0.99)]
+          ),
+          Line(
+            (words): [Word(value='Validade:', confidence=1.0)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='2309006', confidence=0.99)]
+          ),
+          Line(
+            (words): [Word(value='09/26', confidence=0.99)]
+          ),
+          Line(
+            (words): [Word(value='00-1202/09429915ES2dN', confidence=0.27)]
+          ),
+        ]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

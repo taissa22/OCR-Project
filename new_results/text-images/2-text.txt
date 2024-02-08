@@ -1,0 +1,48 @@
+Document(
+  (pages): [Page(
+    dimensions=(465, 620)
+    (blocks): [
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='OLOTEEVALIDADE', confidence=0.86),
+            Word(value='ESTAO', confidence=0.82),
+            Word(value='ABAIXO', confidence=0.99),
+            Word(value='Eui', confidence=0.82),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='FAB17', confidence=0.96)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='15', confidence=1.0)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='VAL17', confidence=0.97)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='16', confidence=1.0)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='LOT120215', confidence=0.95)]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

@@ -1,0 +1,16 @@
+Document(
+  (pages): [Page(
+    dimensions=(2448, 3264)
+    (blocks): [Block(
+      (lines): [Line(
+        (words): [
+          Word(value='L.1723', confidence=0.9),
+          Word(value='FAE', confidence=0.87),
+          Word(value='-', confidence=0.68),
+          Word(value='$2460', confidence=0.37),
+        ]
+      )]
+      (artefacts): []
+    )]
+  )]
+)

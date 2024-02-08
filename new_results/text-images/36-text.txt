@@ -1,0 +1,29 @@
+Document(
+  (pages): [Page(
+    dimensions=(3264, 2448)
+    (blocks): [
+      Block(
+        (lines): [Line(
+          (words): [Word(value='3259046043', confidence=0.97)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='64EL', confidence=0.33)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='VAL', confidence=0.99),
+            Word(value='01', confidence=1.0),
+            Word(value='SSNS290', confidence=0.44),
+          ]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

@@ -1,0 +1,84 @@
+Document(
+  (pages): [Page(
+    dimensions=(358, 600)
+    (blocks): [
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='DATA', confidence=1.0),
+            Word(value='DE', confidence=1.0),
+            Word(value='FABRICAÇAOL', confidence=0.58),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='INSPECIONADO', confidence=0.73)]
+          ),
+          Line(
+            (words): [Word(value='716', confidence=1.0)]
+          ),
+          Line(
+            (words): [Word(value='SIF.', confidence=0.65)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='L-393000'949355', confidence=0.49)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='SEPEaS', confidence=0.14)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='NL5SP3018156', confidence=0.32)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='MISTO', confidence=1.0)]
+          ),
+          Line(
+            (words): [
+              Word(value='Fmtain', confidence=0.29),
+              Word(value='-', confidence=0.98),
+              Word(value='-', confidence=0.9),
+              Word(value='-', confidence=0.97),
+              Word(value='-', confidence=1.0),
+            ]
+          ),
+          Line(
+            (words): [Word(value='FSC0014015', confidence=0.54)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='FSC', confidence=1.0)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='VALIDO', confidence=0.97),
+            Word(value='ATÉ', confidence=0.89),
+          ]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

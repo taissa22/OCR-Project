@@ -1,0 +1,19 @@
+Document(
+  (pages): [Page(
+    dimensions=(3264, 2448)
+    (blocks): [Block(
+      (lines): [
+        Line(
+          (words): [Word(value='L:B2361170', confidence=0.97)]
+        ),
+        Line(
+          (words): [Word(value='F:07/23', confidence=0.73)]
+        ),
+        Line(
+          (words): [Word(value='SZILO:A', confidence=0.74)]
+        ),
+      ]
+      (artefacts): []
+    )]
+  )]
+)

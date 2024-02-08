@@ -1,0 +1,54 @@
+Document(
+  (pages): [Page(
+    dimensions=(3264, 2448)
+    (blocks): [
+      Block(
+        (lines): [Line(
+          (words): [Word(value='Colgate', confidence=1.0)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='3161KX711E', confidence=0.25)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='LOTE/FAB6', confidence=0.23),
+            Word(value='S200', confidence=0.3),
+            Word(value='C?', confidence=0.43),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='VAL:/EXP.:', confidence=0.49)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='SELLADO.', confidence=0.93),
+            Word(value='NO', confidence=1.0),
+            Word(value='USAR', confidence=0.78),
+            Word(value='WIIS', confidence=0.39),
+            Word(value='CAILIA', confidence=0.67),
+            Word(value='ESTAABIERTA', confidence=0.9),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='ESTUCHE', confidence=0.95)]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

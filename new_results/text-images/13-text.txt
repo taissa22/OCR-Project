@@ -1,0 +1,56 @@
+Document(
+  (pages): [Page(
+    dimensions=(3264, 2448)
+    (blocks): [
+      Block(
+        (lines): [Line(
+          (words): [Word(value='RESFENOL', confidence=0.87)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='Lote:', confidence=1.0)]
+          ),
+          Line(
+            (words): [Word(value='Fab.:', confidence=0.99)]
+          ),
+          Line(
+            (words): [Word(value='Val.:', confidence=0.91)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='ABA8101', confidence=0.97)]
+          ),
+          Line(
+            (words): [
+              Word(value='ABR', confidence=1.0),
+              Word(value='23', confidence=1.0),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='MAR', confidence=1.0),
+              Word(value='25', confidence=1.0),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='A', confidence=0.87),
+            Word(value='sy', confidence=0.5),
+          ]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

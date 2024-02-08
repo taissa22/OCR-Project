@@ -1,0 +1,35 @@
+Document(
+  (pages): [Page(
+    dimensions=(3264, 2448)
+    (blocks): [
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='Lote:', confidence=1.0)]
+          ),
+          Line(
+            (words): [Word(value='Fab:', confidence=1.0)]
+          ),
+          Line(
+            (words): [Word(value='Val:', confidence=0.97)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='X25NAB', confidence=0.87)]
+          ),
+          Line(
+            (words): [Word(value='EZ/A3', confidence=0.25)]
+          ),
+          Line(
+            (words): [Word(value='FEV/27', confidence=0.97)]
+          ),
+        ]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

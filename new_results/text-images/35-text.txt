@@ -1,0 +1,56 @@
+Document(
+  (pages): [Page(
+    dimensions=(3264, 2448)
+    (blocks): [
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='FAB:', confidence=0.52)]
+          ),
+          Line(
+            (words): [Word(value='UAL:', confidence=0.63)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='25-02/2023', confidence=0.72),
+            Word(value='21:55', confidence=0.88),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='21/03/2024', confidence=0.86)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='1', confidence=0.49),
+              Word(value='2024.03.21', confidence=1.0),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='OP:', confidence=1.0),
+              Word(value='692123101', confidence=0.51),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='INF0205', confidence=0.91)]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

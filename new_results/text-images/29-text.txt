@@ -1,0 +1,391 @@
+Document(
+  (pages): [Page(
+    dimensions=(3264, 2448)
+    (blocks): [
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='MESMO', confidence=1.0)]
+          ),
+          Line(
+            (words): [
+              Word(value='8', confidence=0.35),
+              Word(value='aureus', confidence=0.9),
+            ]
+          ),
+          Line(
+            (words): [Word(value='N', confidence=0.73)]
+          ),
+          Line(
+            (words): [Word(value='CEP', confidence=1.0)]
+          ),
+          Line(
+            (words): [Word(value='DA', confidence=1.0)]
+          ),
+          Line(
+            (words): [Word(value='N', confidence=0.28)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='VI', confidence=0.66),
+              Word(value='NOI', confidence=0.53),
+              Word(value='NATIDA', confidence=0.56),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='MWISDON', confidence=0.27),
+              Word(value='LTDA', confidence=0.49),
+              Word(value='V8', confidence=0.29),
+            ]
+          ),
+          Line(
+            (words): [Word(value='-', confidence=0.94)]
+          ),
+          Line(
+            (words): [Word(value='SANTOEURIL', confidence=0.41)]
+          ),
+          Line(
+            (words): [
+              Word(value='25351', confidence=0.93),
+              Word(value='301763/2011-76.', confidence=0.81),
+              Word(value='INDON', confidence=0.44),
+              Word(value='VBI', confidence=0.4),
+              Word(value='195', confidence=0.55),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='a', confidence=0.59),
+              Word(value='IMPORTADO', confidence=0.93),
+              Word(value='Y', confidence=1.0),
+              Word(value='DOINGNISIO', confidence=0.39),
+              Word(value='POR:', confidence=0.97),
+            ]
+          ),
+          Line(
+            (words): [Word(value='BRASILERA', confidence=0.59)]
+          ),
+          Line(
+            (words): [Word(value='COLGATE', confidence=0.54)]
+          ),
+          Line(
+            (words): [
+              Word(value='SAN', confidence=0.61),
+              Word(value='siml', confidence=0.25),
+              Word(value='ARGENTINA', confidence=0.97),
+              Word(value='OrV9TI', confidence=0.46),
+              Word(value='N', confidence=0.56),
+              Word(value='2185', confidence=0.66),
+              Word(value='MS', confidence=0.81),
+              Word(value='PALMOLNE', confidence=0.7),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='917', confidence=1.0),
+              Word(value='C', confidence=0.91),
+              Word(value='VOAV', confidence=0.68),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='638', confidence=0.46),
+              Word(value='16408', confidence=0.31),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='MOLASLOPEZ', confidence=0.96),
+              Word(value='NOIONASV', confidence=0.86),
+              Word(value='PIG', confidence=0.56),
+              Word(value='80015316-4', confidence=0.37),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='SAJE', confidence=0.74),
+              Word(value='PASEO', confidence=0.99),
+              Word(value='DE', confidence=1.0),
+              Word(value='SVI', confidence=0.84),
+              Word(value='CARRETAS', confidence=1.0),
+              Word(value='2580', confidence=1.0),
+              Word(value='AP', confidence=1.0),
+              Word(value='10Z', confidence=0.33),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='ATI', confidence=0.67),
+              Word(value='IV', confidence=0.58),
+              Word(value='.', confidence=0.21),
+              Word(value='DEL', confidence=0.7),
+              Word(value='GIADORSAIG', confidence=0.47),
+              Word(value='CP11300,', confidence=0.67),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='SA', confidence=0.7),
+              Word(value='PERO', confidence=0.95),
+              Word(value='RUC', confidence=0.96),
+              Word(value='20100919002', confidence=0.95),
+              Word(value='100', confidence=0.46),
+              Word(value='ATI', confidence=0.72),
+              Word(value='ADOWNS', confidence=0.23),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='1900;', confidence=0.82),
+              Word(value='00', confidence=0.83),
+              Word(value='IVA', confidence=0.18),
+              Word(value='d', confidence=0.42),
+              Word(value='MOI', confidence=0.62),
+              Word(value='Al', confidence=0.71),
+              Word(value='CAJ.B.', confidence=0.4),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='REA', confidence=0.65),
+              Word(value='SAN', confidence=0.91),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='V', confidence=0.56),
+              Word(value='MOLME', confidence=0.98),
+              Word(value='CA)', confidence=0.88),
+              Word(value='INC', confidence=0.71),
+              Word(value='B', confidence=0.19),
+              Word(value='SALV', confidence=0.44),
+              Word(value='-', confidence=0.88),
+            ]
+          ),
+          Line(
+            (words): [Word(value='S', confidence=0.36)]
+          ),
+          Line(
+            (words): [
+              Word(value='YVNVO', confidence=0.46),
+              Word(value='REG,', confidence=0.74),
+              Word(value='NVS', confidence=0.49),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='COLGATE', confidence=0.81),
+              Word(value='PALMOLN', confidence=0.75),
+              Word(value='MVOMWOO', confidence=0.3),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='M', confidence=0.71),
+              Word(value='CONSUMIDOR', confidence=0.81),
+              Word(value='GUATEMALA', confidence=0.41),
+              Word(value='B91', confidence=0.46),
+              Word(value='285-4283', confidence=0.55),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='U', confidence=0.55),
+              Word(value='ATE', confidence=0.99),
+              Word(value='008', confidence=0.95),
+              Word(value='265-', confidence=0.94),
+              Word(value='4283)', confidence=0.8),
+              Word(value='EL', confidence=0.97),
+              Word(value='SAIVADOR', confidence=0.58),
+              Word(value='2278-', confidence=0.92),
+              Word(value='1213,NICARA', confidence=0.85),
+              Word(value='11', confidence=0.39),
+              Word(value='22809650', confidence=0.54),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='VOIB', confidence=0.5),
+              Word(value='NIS)', confidence=0.49),
+              Word(value='COSTO)', confidence=0.99),
+              Word(value='1-809-', confidence=0.6),
+              Word(value='-200-1472,', confidence=0.82),
+              Word(value='COLOMBIA', confidence=1.0),
+              Word(value='01-800-05-20000', confidence=0.66),
+              Word(value='BOUMA', confidence=0.8),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='3200', confidence=0.75),
+              Word(value='RER', confidence=0.93),
+              Word(value='VNVOININOO', confidence=0.83),
+              Word(value='1800-895020,', confidence=0.99),
+              Word(value='ARGENTINA', confidence=0.86),
+              Word(value='0-810-444-0057,', confidence=0.98),
+              Word(value='URUGUAY', confidence=0.47),
+              Word(value='LLAME', confidence=0.44),
+              Word(value='GRATISAL', confidence=0.68),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='0800-703', confidence=1.0),
+              Word(value='77', confidence=1.0),
+              Word(value='22-', confidence=1.0),
+              Word(value='CAXA', confidence=0.74),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='REG.', confidence=0.91),
+            Word(value='SAN', confidence=0.97),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='REG.', confidence=0.72),
+              Word(value='NVS', confidence=0.99),
+            ]
+          ),
+          Line(
+            (words): [Word(value='IRAS', confidence=0.85)]
+          ),
+          Line(
+            (words): [Word(value='0', confidence=0.2)]
+          ),
+          Line(
+            (words): [
+              Word(value='MONDURAS', confidence=0.69),
+              Word(value='PERU', confidence=1.0),
+              Word(value='0801-1-3636', confidence=0.57),
+              Word(value='ECUADOR:', confidence=1.0),
+            ]
+          ),
+          Line(
+            (words): [Word(value='13', confidence=0.51)]
+          ),
+          Line(
+            (words): [
+              Word(value='GRATIS', confidence=0.9),
+              Word(value='0098005420055,', confidence=0.96),
+              Word(value='BRASIL:', confidence=0.61),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='PARAGUAY', confidence=1.0),
+              Word(value='LLAME', confidence=0.88),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='nn', confidence=0.39),
+              Word(value='ySUY', confidence=0.27),
+              Word(value='7DASPNULO-SP', confidence=0.41),
+              Word(value='', confidence=0.42),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='MM', confidence=0.31),
+              Word(value='protex', confidence=0.99),
+              Word(value='qwoardeos', confidence=0.58),
+            ]
+          ),
+          Line(
+            (words): [Word(value='01059', confidence=0.67)]
+          ),
+          Line(
+            (words): [Word(value='ECONOMIZE', confidence=0.9)]
+          ),
+          Line(
+            (words): [Word(value='AGUA', confidence=1.0)]
+          ),
+          Line(
+            (words): [Word(value='AHORRA', confidence=1.0)]
+          ),
+          Line(
+            (words): [Word(value='AGUA', confidence=1.0)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='POSTAL', confidence=0.91),
+            Word(value='1687-CEP', confidence=0.59),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='wcolgala.comlsealw', confidence=0.19)]
+          ),
+          Line(
+            (words): [Word(value='PAMOTAUPPABEDPNGEPNA', confidence=0.2)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='176//9.99560514', confidence=0.43)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='70/2025', confidence=0.53),
+              Word(value='0539', confidence=0.97),
+            ]
+          ),
+          Line(
+            (words): [Word(value='LOTE051023', confidence=0.73)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='VAL', confidence=1.0)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='BR', confidence=1.0),
+            Word(value='1022', confidence=0.92),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='PS0046208', confidence=0.99)]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

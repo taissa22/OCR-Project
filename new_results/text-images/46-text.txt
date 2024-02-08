@@ -1,0 +1,25 @@
+Document(
+  (pages): [Page(
+    dimensions=(666, 1000)
+    (blocks): [Block(
+      (lines): [
+        Line(
+          (words): [
+            Word(value='FAB:', confidence=1.0),
+            Word(value='0202/90/90', confidence=0.84),
+          ]
+        ),
+        Line(
+          (words): [
+            Word(value='VAL:', confidence=1.0),
+            Word(value='05/05/2021', confidence=0.93),
+          ]
+        ),
+        Line(
+          (words): [Word(value='L:001179', confidence=0.99)]
+        ),
+      ]
+      (artefacts): []
+    )]
+  )]
+)

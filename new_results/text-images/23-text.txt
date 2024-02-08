@@ -1,0 +1,6 @@
+Document(
+  (pages): [Page(
+    dimensions=(3264, 2448)
+    (blocks): []
+  )]
+)

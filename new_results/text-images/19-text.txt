@@ -1,0 +1,22 @@
+Document(
+  (pages): [Page(
+    dimensions=(3264, 2448)
+    (blocks): [Block(
+      (lines): [
+        Line(
+          (words): [Word(value='B22L2564', confidence=0.91)]
+        ),
+        Line(
+          (words): [
+            Word(value='-', confidence=0.69),
+            Word(value='112022', confidence=0.79),
+          ]
+        ),
+        Line(
+          (words): [Word(value='0:11/2024', confidence=0.5)]
+        ),
+      ]
+      (artefacts): []
+    )]
+  )]
+)

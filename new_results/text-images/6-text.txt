@@ -1,0 +1,117 @@
+Document(
+  (pages): [Page(
+    dimensions=(3264, 2448)
+    (blocks): [
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='nus', confidence=0.25)]
+          ),
+          Line(
+            (words): [Word(value='vito', confidence=0.68)]
+          ),
+          Line(
+            (words): [Word(value='CALCO', confidence=0.7)]
+          ),
+          Line(
+            (words): [Word(value='VITAMINAD', confidence=0.99)]
+          ),
+          Line(
+            (words): [Word(value='IBATVOINEWETANS', confidence=0.23)]
+          ),
+          Line(
+            (words): [
+              Word(value='EMCOMPRIMIDOS', confidence=0.89),
+              Word(value='REVESTIDD', confidence=0.77),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='008', confidence=1.0),
+              Word(value='bus', confidence=0.53),
+              Word(value='DE', confidence=1.0),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='FONTE', confidence=0.99),
+              Word(value='DE', confidence=1.0),
+            ]
+          ),
+          Line(
+            (words): [Word(value='E', confidence=0.3)]
+          ),
+          Line(
+            (words): [
+              Word(value='A', confidence=0.79),
+              Word(value='VITAM', confidence=0.98),
+              Word(value='0', confidence=0.58),
+              Word(value='EOCALCIO', confidence=0.98),
+              Word(value='ATLW', confidence=0.3),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='FU', confidence=0.76),
+              Word(value='UNCIONAMENTO!', confidence=0.59),
+              Word(value='M', confidence=0.24),
+            ]
+          ),
+          Line(
+            (words): [Word(value='CrvEe', confidence=0.17)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='L:23080006', confidence=0.92)]
+          ),
+          Line(
+            (words): [Word(value='F:05/23', confidence=0.97)]
+          ),
+          Line(
+            (words): [Word(value='V:05/25', confidence=0.99)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='SVD', confidence=0.4)]
+          ),
+          Line(
+            (words): [Word(value='101', confidence=0.6)]
+          ),
+          Line(
+            (words): [
+              Word(value='Ay', confidence=0.17),
+              Word(value='s', confidence=0.2),
+            ]
+          ),
+          Line(
+            (words): [Word(value='-', confidence=0.93)]
+          ),
+          Line(
+            (words): [Word(value='SMEDSLZ:', confidence=0.24)]
+          ),
+          Line(
+            (words): [Word(value='amera', confidence=0.26)]
+          ),
+          Line(
+            (words): [Word(value='SEau', confidence=0.22)]
+          ),
+          Line(
+            (words): [
+              Word(value='-', confidence=0.8),
+              Word(value='los', confidence=0.31),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+    ]
+  )]
+)
