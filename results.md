@@ -5,9 +5,16 @@
 * Foi utilizado um modelo pré-treinado para identificar onde está a validade do produto
 * Para o teste foram usadas 50 imagens com diferentes tipos de fontes e iluminações a fim de concluir o comportamento amplo da biblioteca
 * As imagens foram testadas usando dois parametros do modelo, assume_straight_pages=True/False
+
+## Conclusões
+
 * Das 50 imagens conclui-se que 
 	- A ferramenta do Google Cloud Vision API reconheceu 
-	- O modelo reconheceu
+	- O modelo docTR reconheceu
+* A biblioteca docTR trabalha melhor com imagens não manipuladas
+* O reconhecimento é mais preciso com o parâmento assume_straight_pages=True, logo, é mais preciso quando a data está horizontal
+* A ferramenta Google Cloud Vision API mudou a posição da imagem e as boxes ficaram descentralizadas com o texto visualmente
+* Ambas ferramentas têm maior precisão com os textos focalizados
 
 ## Testes
 
